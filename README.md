@@ -2,7 +2,6 @@
 Repositories 3
 Projects
 Packages
-AVS1508/README.md
 Hi harsh gupta
 
 Night Coding
