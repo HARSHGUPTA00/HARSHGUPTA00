@@ -1,5 +1,7 @@
 Hi harsh Gupta
+
 DevOps and Cloud Engineer 
+
 👨🏻‍💻  About Me
 💡  I like to explore new technologies.
 🎓  I'm currently studying Shir Ramswaroop; bachelor in computer application
