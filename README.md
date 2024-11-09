@@ -10,15 +10,25 @@ DevOps and Cloud Engineer
 
 
 🛠  Tech Stack
+
 AWS Cloud 
+
 Containerization – Docker 
+
 Orchestration – Kubernetes 
+
 Infrastructure as Code – Terraform 
+
 Configuration Management – Ansible 
+
 CI/CD – Jenkins, GitHub Actions
+
 Scripting – Shell scripting  
+
 Linux- Ubuntu, CentOS, RedHat 
+
 Version Control System - Git, GitHub 
+
 Programming Language - Python, Java
 
 
