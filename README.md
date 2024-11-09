@@ -1,4 +1,4 @@
-Hi harsh Gupta
+Hi Harsh Gupta
 
 DevOps and Cloud Engineer 
 
